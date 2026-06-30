@@ -8,11 +8,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jvjmoura" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:joao.moura@tjpa.jus.br"><img src="https://img.shields.io/badge/E--mail_Institucional-1F3A5F?style=flat-square&logo=maildotru&logoColor=white" /></a>
-  <a href="mailto:jvjmoura@gmail.com"><img src="https://img.shields.io/badge/Gmail-334155?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/jvjmoura/" target="_blank"><img src="https://img.shields.io/badge/Instagram-475569?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=jvjmoura&label=Visualiza%C3%A7%C3%B5es&color=1F3A5F&style=flat-square" alt="views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=560&lines=Direito+%2B+Tecnologia;Ci%C3%AAncia+de+Dados+%26+Intelig%C3%AAncia+Artificial;IA+aplicada+ao+Judici%C3%A1rio" alt="typing" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jvjmoura" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:joao.moura@tjpa.jus.br"><img src="https://img.shields.io/badge/E--mail_Institucional-1F3A5F?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+  <a href="mailto:jvjmoura@gmail.com"><img src="https://img.shields.io/badge/Gmail-334155?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/jvjmoura/" target="_blank"><img src="https://img.shields.io/badge/Instagram-475569?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=jvjmoura&label=Visualiza%C3%A7%C3%B5es&color=1F3A5F&style=for-the-badge" alt="views" />
 </p>
 
 ---
@@ -33,28 +37,28 @@ Sou **Juiz de Direito do Tribunal de Justiça do Estado do Pará (TJPA)**, atual
 **Linguagens**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 **Ciência de Dados &amp; IA**
 
 <p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 **Ferramentas &amp; Infraestrutura**
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
@@ -62,12 +66,21 @@ Sou **Juiz de Direito do Tribunal de Justiça do Estado do Pará (TJPA)**, atual
 ## Atividade no GitHub
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jvjmoura&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1F3A5F&icon_color=2c5364&text_color=334155&hide_title=false" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvjmoura&layout=compact&hide_border=true&langs_count=8&title_color=1F3A5F&text_color=334155" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jvjmoura&theme=github_dark" alt="resumo do perfil" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jvjmoura&hide_border=true&background=ffffff&ring=1F3A5F&fire=2c5364&currStreakLabel=1F3A5F&sideLabels=334155&dates=94a3b8" alt="streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jvjmoura&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jvjmoura&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jvjmoura&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jvjmoura&theme=github_dark&utcOffset=-3" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jvjmoura&theme=github-dark-blue&hide_border=true" alt="streak" />
 </p>
 
 ---
