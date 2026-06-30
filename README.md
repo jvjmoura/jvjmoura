@@ -1,6 +1,8 @@
-<!-- BANNER ANIMADO -->
+<!-- ====== HEADER FUTURISTA ====== -->
+<a name="top"></a>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:3776AB&height=220&section=header&text=JV%20Moura&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Justi%C3%A7a%20%E2%9A%96%EF%B8%8F%20%2B%20Tecnologia%20%F0%9F%92%BB%20%2B%20Intelig%C3%AAncia%20Artificial%20%F0%9F%A4%96&descSize=18&descAlignY=58&animation=fadeIn" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,40:7B2FF7,100:FF2E97&height=260&section=header&text=JV%20MOURA&fontSize=78&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%96%EF%B8%8F%20Justi%C3%A7a%20%20%C3%97%20%20%F0%9F%92%BB%20C%C3%B3digo%20%20%C3%97%20%20%F0%9F%A4%96%20Intelig%C3%AAncia%20Artificial&descSize=20&descAlignY=58&animation=fadeIn&fontColor=ffffff" alt="header banner" />
 </p>
 
 <!-- ASCII ART -->
@@ -14,16 +16,18 @@
 </pre>
 
 <p align="center">
-  <b>⚖️ Juiz de Direito (TJPA) · 🎓 Doutorando em Ciência da Computação (UFPE) · 🐍 Apaixonado por Python &amp; IA</b>
+  <img src="https://img.shields.io/badge/Juiz_de_Direito-00F5FF?style=for-the-badge&logoColor=black&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Doutorando_UFPE-7B2FF7?style=for-the-badge&labelColor=0a0a0a" />
+  <img src="https://img.shields.io/badge/Cientista_de_Dados_&_IA-FF2E97?style=for-the-badge&labelColor=0a0a0a" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=650&lines=Juiz+de+Direito+%E2%9A%96%EF%B8%8F;Doutorando+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+UFPE;Apaixonado+por+Python+%F0%9F%90%8D;IA+aplicada+ao+Judici%C3%A1rio" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=800&color=00F5FF&center=true&vCenter=true&width=720&lines=%3E+Juiz+de+Direito+%E2%9A%96%EF%B8%8F;%3E+Doutorando+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+UFPE;%3E+IA+aplicada+ao+Judici%C3%A1rio+%F0%9F%A4%96;%3E+Python+Developer+%F0%9F%90%8D" alt="Typing SVG" />
 </p>
 
 ---
 
-## �‍⚖️ Sobre mim
+## 👨‍⚖️ Sobre mim
 
 ```python
 class JVMoura:
@@ -48,65 +52,33 @@ class JVMoura:
 
 ---
 
-## 🧰 Stack & Ferramentas
+## � Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center"><b>💻 Linguagens</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🧠 Data &amp; IA</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>⚙️ Eng. de Dados</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>🛠️ Ferramentas</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,pytorch,anaconda,postgres,docker,git,github,vscode,linux,bash&theme=dark&perline=12" alt="skills" />
+</p>
 
 ---
 
-## 📊 Estatísticas no GitHub
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvjmoura&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvjmoura&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvjmoura&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0a0a&title_color=00F5FF&icon_color=FF2E97&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvjmoura&layout=compact&theme=radical&langs_count=8&hide_border=true&bg_color=0a0a0a&title_color=00F5FF&text_color=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvjmoura&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvjmoura&theme=radical&hide_border=true&background=0a0a0a&ring=00F5FF&fire=FF2E97&currStreakLabel=00F5FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jvjmoura&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophéus" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jvjmoura&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophéus" />
 </p>
 
 ### 📈 Gráfico de atividade
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jvjmoura&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jvjmoura&theme=react-dark&hide_border=true&area=true&bg_color=0a0a0a&color=00F5FF&line=FF2E97&point=ffffff" alt="activity graph" />
 </p>
 
 ### 🐍 Snake do meu gráfico de contribuições
@@ -153,7 +125,7 @@ class JVMoura:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jvjmoura&label=Visitas+no+perfil&color=3776AB&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=jvjmoura&label=Visitas+no+perfil&color=00F5FF&style=for-the-badge" alt="profile views" />
 </p>
 
 <p align="center">
@@ -161,5 +133,9 @@ class JVMoura:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3776AB,50:2563eb,100:1e3a8a&height=120&section=footer&animation=fadeIn" alt="footer banner" />
+  <a href="#top">⬆️ Voltar ao topo</a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,50:7B2FF7,100:00F5FF&height=140&section=footer&animation=fadeIn" alt="footer banner" />
 </p>
