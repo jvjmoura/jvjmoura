@@ -1,8 +1,10 @@
 <a name="top"></a>
 
 <!-- ====== HEADER ====== -->
+<h1 align="center">João Moura</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Jo%C3%A3o%20Moura&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Juiz%20de%20Direito%20%E2%80%A2%20Doutorando%20em%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20Ci%C3%AAncia%20de%20Dados%20%26%20IA&descSize=15&descAlignY=58" alt="header" />
+  <b>Juiz de Direito (TJPA) &nbsp;•&nbsp; Doutorando em Ciência da Computação (UFPE) &nbsp;•&nbsp; Ciência de Dados &amp; IA</b>
 </p>
 
 <p align="center">
@@ -65,7 +67,7 @@ Sou **Juiz de Direito do Tribunal de Justiça do Estado do Pará (TJPA)**, atual
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvjmoura&hide_border=true&background=ffffff&ring=1F3A5F&fire=2c5364&currStreakLabel=1F3A5F&sideLabels=334155&dates=94a3b8" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=jvjmoura&hide_border=true&background=ffffff&ring=1F3A5F&fire=2c5364&currStreakLabel=1F3A5F&sideLabels=334155&dates=94a3b8" alt="streak" />
 </p>
 
 ---
@@ -93,10 +95,6 @@ Sou **Juiz de Direito do Tribunal de Justiça do Estado do Pará (TJPA)**, atual
 
 <p align="center">
   <sub>Direito e tecnologia a serviço de um Judiciário mais eficiente.</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
 </p>
 
 <p align="center"><a href="#top">Voltar ao topo</a></p>
