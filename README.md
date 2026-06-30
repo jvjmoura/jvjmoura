@@ -65,7 +65,7 @@ Sou **Juiz de Direito do Tribunal de Justiça do Estado do Pará (TJPA)**, atual
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jvjmoura&hide_border=true&area=true&color=1F3A5F&line=2c5364&point=0f2027&bg_color=ffffff" alt="activity graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jvjmoura&hide_border=true&background=ffffff&ring=1F3A5F&fire=2c5364&currStreakLabel=1F3A5F&sideLabels=334155&dates=94a3b8" alt="streak" />
 </p>
 
 ---
@@ -96,7 +96,7 @@ Sou **Juiz de Direito do Tribunal de Justiça do Estado do Pará (TJPA)**, atual
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,50:203a43,100:0f2027&height=60&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
 </p>
 
 <p align="center"><a href="#top">Voltar ao topo</a></p>
