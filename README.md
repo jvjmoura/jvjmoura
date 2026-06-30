@@ -2,7 +2,7 @@
 
 <!-- ====== HEADER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Jo%C3%A3o%20Moura&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Juiz%20de%20Direito%20%E2%80%A2%20Doutorando%20em%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20Ci%C3%AAncia%20de%20Dados%20%26%20IA&descSize=16&descAlignY=72" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Jo%C3%A3o%20Moura&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Juiz%20de%20Direito%20%E2%80%A2%20Doutorando%20em%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%E2%80%A2%20Ci%C3%AAncia%20de%20Dados%20%26%20IA&descSize=15&descAlignY=58" alt="header" />
 </p>
 
 <p align="center">
