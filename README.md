@@ -4,7 +4,7 @@
 <h1 align="center">João Moura</h1>
 
 <p align="center">
-  <b>Juiz de Direito (TJPA) &nbsp;•&nbsp; Doutorando em Ciência da Computação (UFPE) &nbsp;•&nbsp; Ciência de Dados &amp; IA</b>
+  <b>Juiz de Direito (TJPA) &nbsp;•&nbsp; Juiz Auxiliar da Presidência – TI &nbsp;•&nbsp; Doutorando em Ciência da Computação (UFPE)</b>
 </p>
 
 <p align="center">
@@ -23,12 +23,15 @@
 
 ## Sobre
 
-Sou **Juiz de Direito do Tribunal de Justiça do Estado do Pará (TJPA)**, atualmente atuando junto à **Presidência, na área de Tecnologia da Informação**. Na interseção entre **Direito e Tecnologia**, dedico-me ao desenvolvimento de soluções de **dados e Inteligência Artificial** voltadas à eficiência e à modernização do Poder Judiciário.
+Sou **Juiz de Direito do Tribunal de Justiça do Estado do Pará (TJPA)**, titular da **1ª Vara Criminal de Rondon do Pará**, e atuo como **Juiz Auxiliar da Presidência** no eixo de **Tecnologia da Informação**. Minha trajetória une **Direito, tecnologia, ciência de dados e inovação**, com foco na modernização do Judiciário e no uso responsável de **Inteligência Artificial**.
 
-- **Doutorando em Ciência da Computação** — Universidade Federal de Pernambuco (UFPE)
-- **MBA em Ciência de Dados e Inteligência Artificial** — IDP/DF
-- Atuação em **Data Science, Machine Learning e IA aplicada à Justiça**
-- Desenvolvimento em **Python**, com ênfase em análise de dados e automação de processos
+- ⚖️ **Magistratura** — atuação jurisdicional na área criminal e gestão de inovação junto à Presidência do TJPA
+- 🎓 **Doutorando em Ciência da Computação** — Centro de Informática (CIn) da **UFPE**, com ênfase em IA aplicada ao Judiciário
+- � **MBA em Ciência de Dados e Inteligência Artificial**
+- �📚 **Mestre em Direitos Fundamentais** (UNAMA) • Especializações em Direito Público, Jurisdição Inovadora e Liderança Ágil • Formação ENFAM
+- 🤖 **Projetos de IA no Judiciário** — transcrição e diarização de audiências, anonimização de dados (LGPD), automação de fluxos e portais de IA
+- 🧑‍🏫 **Escola Judicial do Pará** — coordenação de cursos em IA, produtividade e inovação pública
+- 🐍 Desenvolvimento em **Python**, com ênfase em NLP, dados e automação
 
 ---
 
@@ -89,9 +92,9 @@ Sou **Juiz de Direito do Tribunal de Justiça do Estado do Pará (TJPA)**, atual
 
 | Projeto | Descrição | Tecnologia |
 |---------|-----------|------------|
-| [zeus](https://github.com/jvjmoura/zeus) | Projeto pessoal em Python | Python |
-| [Kryptos-](https://github.com/jvjmoura/Kryptos-) | Projeto em Python | Python |
-| [zeusws](https://github.com/jvjmoura/zeusws) | Projeto em Python | Python |
+| [zeus](https://github.com/jvjmoura/zeus) | 🎙️ **Zeus Whisper** — transcrição de áudio e vídeo para texto com OpenAI Whisper. Base do projeto **ZEUS IA** (apoio à análise de audiências). | Python · Streamlit · Whisper |
+| [Kryptos-](https://github.com/jvjmoura/Kryptos-) | 🔒 **Kryptos** — anonimização de dados sensíveis (LGPD) em textos e PDFs com spaCy, regex e PyMuPDF. | Python · Streamlit · spaCy |
+| [zeusws](https://github.com/jvjmoura/zeusws) | 🎧 Transcrição (Whisper) + análise com GPT que estrutura o conteúdo falado em tabelas. | Python · Streamlit · OpenAI |
 
 > As descrições serão atualizadas conforme cada projeto evolui. Repositórios fixados (pinned) aparecem em destaque no topo do perfil.
 
